@@ -44,7 +44,7 @@ othello_game/
 ## How to Run
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/othello-ai-game.git
+git clone https://github.com/ikshug6/othello-ai-game.git
 cd othello-ai-game
 python3 gui.py
 ```
